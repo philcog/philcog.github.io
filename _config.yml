@@ -5,16 +5,16 @@ canonical: http://philcog.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Maria Serban
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+#  bio:            "Aesthete & Athlete"
+#  email:          cole@coletownsend.com
+#  twitter:        twnsndco
+#  github:         coletownsend
+#  instagram:      ctrunsthis
+#  dribbble:       coletownsend
+#  disqus:         balzac
+#  location:       "Buffalo, NY"
   # Plug in your disqus shortname!
 
 tools:
