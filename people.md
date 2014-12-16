@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /people
+# permalink: /people
 title: people
 description: the philcog members are ...
 tags: [people, philcog, interests]
