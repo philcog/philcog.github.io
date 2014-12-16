@@ -26,10 +26,10 @@ tools:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+  - title: People
+    url: http://philcog.github.io/people
     external: true
-  - title: Cog Who?
+  - title: Phil Who?
     url: http://plato.stanford.edu/entries/cognitive-science/
     external: true
 
