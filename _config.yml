@@ -47,7 +47,7 @@ links:
     url: /about
   - title: People
     url: http://philcog.github.io/people
-    external: true
+    external: false
   - title: Phil Who?
     url: http://plato.stanford.edu/entries/cognitive-science/
     external: true
