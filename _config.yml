@@ -17,6 +17,25 @@ owner:
 #  location:       "Buffalo, NY"
   # Plug in your disqus shortname!
 
+# Authors 
+authors:
+  author1:
+    name: Author One
+    display_name: One
+#    gravatar: c66919cb194f9fkdfkdsjfk696c1da0c47354a6a
+    email: one@company.com
+    web: http://company.com
+#    twitter: company
+#    github: one
+  author2:
+    name: Author Two
+    display_name: Two
+#    gravatar: 12e480a364a5c14214f99b4dfe9a11d5
+    email: two@company.com
+    web: http://company.com
+#    twitter: company
+#    github: two
+
 tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
