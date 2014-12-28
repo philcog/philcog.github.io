@@ -12,7 +12,7 @@ image:
 [Wayne Wu](http://philpapers.org/profile/1137)   
 [Joshua Alexander](https://www.siena.edu/faculty-and-staff/profile/alexander)   
 [Matteo Colombo](http://mteocolphi.wordpress.com/)    
-[Maria Serban](http://mariaserban.com)   
+[Maria Serban](http://mariaserban.org)   
 [Alison Springle](http://www.philosophy.pitt.edu/person/alison-springle)   
 [Joseph Mccaffrey](http://www.hps.pitt.edu/profile/mccaffrey.php )    
 [Zina Ward](http://www.hps.pitt.edu/profile/ward.php)    
