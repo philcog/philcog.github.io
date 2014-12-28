@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Comments policy
-tags: [philcog, comments, comments policy]
+title: Comment policy
+tags: [philcog, comments, comment policy]
 image:
   feature: soft-trees.jpg
 ---
