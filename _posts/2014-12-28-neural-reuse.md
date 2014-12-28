@@ -20,17 +20,12 @@ At the most general level, by deploying these elements, the neural reuse hypothe
 However, Anderson acknowledges that the case for this hypothesis needs to be supplemented by:
 
 a. specific models of how information could flow between redeployed neural assemblies;
-
 b. particular examples in higher-animals of how different configurations of the same parts can result in different cognitive behaviors.
-
 c. a more complete discussion of how multiple uses of the same region can be coordinated. 
 
 Some additional conceptual work also seems to be required to clarify: 
 
 (i) how can functional modularity can be reconciled with a dispositional account of local functions; 
-
 (ii) what is the payoff of drawing a distinction between functional differentiation and specialization; 
-
 (iii) how does the neural reuse hypothesis solves the identification problem, i.e., establishing for a particular context, the cognitive purpose a neural network which has several functional biases, and 
-
 (iv) how does the neural reuse hypothesis impact the construction of cognitive ontologies. 
