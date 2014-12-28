@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neural Reuse"
+title: "Neural Reuse in Contemporary Cognitive Science"
 description: "chapter 3 of Anderson 2014"
 category: articles
 tags: [neural reuse, function]
