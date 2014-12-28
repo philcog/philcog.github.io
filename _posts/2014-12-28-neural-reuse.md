@@ -3,6 +3,7 @@ layout: post
 title: "Neural Reuse in Contemporary Cognitive Science"
 description: "a comparison of the neural reuse hypothesis and other theories of how neural resources are used in support of cognitive functions"
 category: articles
+comments: true
 tags: [neural reuse, function-structure mappings]
 ---
 
