@@ -19,21 +19,21 @@ owner:
 
 
 # Authors 
-authors:
-  author1:
-    name: Philcog
-    display_name: philcog
+#authors:
+#  author1:
+#    name: Philcog
+#    display_name: philcog
 #    gravatar: c66919cb194f9fkdfkdsjfk696c1da0c47354a6a
-    email: philcogscie@gmail.com
+#    email: philcogscie@gmail.com
 #    web: http://company.com
 #    twitter: company
 #    github: one
-  author2:
-    name: Author Two
-    display_name: Two
+#  author2:
+#    name: Author Two
+#    display_name: Two
 #    gravatar: 12e480a364a5c14214f99b4dfe9a11d5
-    email: two@company.com
-    web: http://company.com
+#    email: two@company.com
+#    web: http://company.com
 #    twitter: company
 #    github: two
 
