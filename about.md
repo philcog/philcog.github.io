@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
+title: About Philcogscie
 description: is a group blog on topics in philosophy of mind, perception and cognitive science, maintained by philosophers at the University of Pittsburgh and Carnegie Mellon University.
 tags: [about, philcogsci, philosophy of mind, philosophy of perception, philosophy of cognitive science]
 image:
