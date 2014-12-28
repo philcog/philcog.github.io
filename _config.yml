@@ -7,7 +7,7 @@ canonical: http://philcog.github.io
 owner:
   name:           Philcog
   avatar:         avatar.png
-  disqus:         philcogscie
+  disqus:         philcog        # Plug in your disqus shortname!
   location:       "Pittsburgh, PA"
   email:          philcogscie@gmail.com
 #  bio:            "Aesthete & Athlete"
@@ -16,7 +16,7 @@ owner:
 #  instagram:      ctrunsthis
 #  dribbble:       coletownsend
 
-  # Plug in your disqus shortname!
+
 
 # Authors 
 authors:
