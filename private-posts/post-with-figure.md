@@ -5,7 +5,7 @@ description: "Examples and code for displaying images in posts."
 category: articles
 tags: [sample post, images, test]
 ---
-
+2013-08-05-post-with-figure.md
 This is a post that uses a `figure`. It stacks these images and places a nice little caption below if you fill out `figcaption`.
 
 ### Single Image Figure
