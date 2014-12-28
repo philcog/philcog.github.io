@@ -6,7 +6,7 @@ True Stories from Nature, about the primeval forest."
 comments: true
 category: articles
 ---
-
+2013-08-05-the-little-prince.md
  It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:
  
  ![Drawing A]({{ site.url }}/images/money.jpg)
