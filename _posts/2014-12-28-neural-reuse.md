@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neural Reuse"
+author: Philcog
 description: "chapter 3 of Anderson 2014"
 category: articles
 tags: [neural reuse, function]
@@ -9,6 +10,7 @@ tags: [neural reuse, function]
 The gist of the Neural Reuse Hypothesis is that anatomical neural units - at multiple physical scales - are *functionally differentiated* from one another without necessarily being *specialized for a single function*, and are used for multiple cognitive and behavioral purposes. The aim of chapter 3 is to refine this hypothesis by comparison with other theoretical proposals of how neural resources are deployed in support of various cognitive functions. The argument rehearses much of the case for the neural reuse hypothesis presented in Anderson (2008), the author insisting more on the similarities between ACT-R, PDP, and hybrid architectures (e.g.,SAL, Leabra) and the NRH. Later on, the comparison between NRH and the neural exploitation hypothesis (Gallese and Lakoff 2005), the shared circuits model (Hurley 2005, 2008), and the neuronal recycling hypothesis (Dehaene 2005) is taken to reveal further advantages of the neural reuse hypothesis. The relevant similarities and differences are presented in the conceptual map below. 
 
 Drawing on these extended comparisons, Anderson (2014) sketches the following features of the functional architecture of the brain that are compatible with the neural reuse hypothesis: 
+
 1. local neural units are used and reused in multiple cognitive or behavioral circumstances, across traditional task categories. 
 2. large scale function is achieved by local genetic and global network dynamics that produce sets of transiently assembled local neural sub-systems for various purposes. 
 3. these is no one-to-one map between network states and tasks. The observed functional division of brain regions is due to modulation of the local network that changes its causal-functional properties.
