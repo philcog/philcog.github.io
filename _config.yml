@@ -48,9 +48,12 @@ links:
   - title: People
     url: http://philcog.github.io/people
     external: false
-  - title: Phil Who?
-    url: http://plato.stanford.edu/entries/cognitive-science/
-    external: true
+  - title: Books
+    url: http://philcog.github.io/books
+    external: false
+  - title: Comments
+    url: http://philcog.github.io/comments
+    external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
