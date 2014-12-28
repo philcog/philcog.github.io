@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Neural Reuse"
-author: Philcog
+author: philcog
 description: "chapter 3 of Anderson 2014"
 category: articles
 tags: [neural reuse, function]
