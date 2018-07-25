@@ -1,6 +1,6 @@
-title:            PhilCog
-tagline:          philosophy of cognitive science
-description:      info blog
+title:            Causation & Mechanism
+tagline:          philosophy of science
+description:      conference website
 canonical: http://philcog.github.io
 
 # Owner/author information
@@ -49,11 +49,11 @@ links:
   - title: People
     url: http://philcog.github.io/people
     external: false
-  - title: Books
-    url: http://philcog.github.io/books
+  - title: Schedule
+    url: http://philcog.github.io/schedule
     external: false
-  - title: Comments
-    url: http://philcog.github.io/comments
+  - title: Practical
+    url: http://philcog.github.io/practical
     external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
