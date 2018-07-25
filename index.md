@@ -1,8 +1,8 @@
 ---
 layout: page
 title: A conference in the philosophy of science
-description: the conference's topics are mechanism and causation
-tags: [about, conference, philosophy of science, mechanism, causation]
+description: on mechanism, causation & difference makers
+tags: [about, conference, philosophy of science, mechanism, causation, difference-makers]
 image:
   feature: typewriter.jpg
 ---
