@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
-description: a group blog on topics in philosophy of mind, perception and cognitive science.
-tags: [about, philcogsci, philosophy of mind, philosophy of perception, philosophy of cognitive science]
+title: A conference in the philosophy of science
+description: the conference's topics are mechanism and causation
+tags: [about, conference, philosophy of science, mechanism, causation]
 image:
   feature: typewriter.jpg
 ---
 
 
-This is the website of the Mechanism and Causation conference.
+The Mechanism and Causation conference is about: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
 
