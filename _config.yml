@@ -47,13 +47,13 @@ links:
   - title: About
     url: /about
   - title: People
-    url: http://philcog.github.io/people
+    url: /people
     external: false
   - title: Schedule
-    url: http://philcog.github.io/schedule
+    url: /schedule
     external: false
   - title: Practical
-    url: http://philcog.github.io/practical
+    url: /practical
     external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
