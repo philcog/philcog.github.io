@@ -7,8 +7,10 @@ image:
   feature: soft-trees.jpg
 ---
 
+[Hotel Christian iv](https://www.hotelchristianiv.dk/)'s address is Dronningens Tværgade 45, 1302 København K.
 
-Peter Carruthers, [The Centered Mind: What the Science of Working Memory Shows Us About the Nature of Human Thought ](http://faculty.philosophy.umd.edu/pcarruthers/Blurb-CM.htm), Oxford University Press 2015   
-Michael, L. Anderson [After Phrenology: Neural Reuse and the Interactive Brain](http://mitpress.mit.edu/books/after-phrenology), MIT Press 2014   
-Nico Orlandi, [The Innocent Eye: Why Vision is not a Cognitive Process](http://ukcatalogue.oup.com/product/9780199375035.do), Oxford University Press 2014     
-David Danks, [Unifying the Mind: Cognitive Representations as Graphical Models](http://mitpress.mit.edu/books/unifying-mind), MIT Press 2014    
+
+[Restaurant Vaekst](https://cofoco.dk/restauranter/vaekst/) is located on Sankt Peders Stræde 34, 1453 København.
+
+
+Forms reimbursement (travel and accommodation): to be uploaded 
