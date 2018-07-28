@@ -8,8 +8,8 @@ owner:
   name:           CMDMC
   avatar:         avatar.png
   disqus:         philcog        # Plug in your disqus shortname!
-  location:       "Pittsburgh, PA"
-  email:          philcogscie@gmail.com
+  location:       "Copenhagen, Denmark"
+  email:          gsj868@hum.ku.dk
 #  bio:            "Aesthete & Athlete"
 #  twitter:        twnsndco
 #  github:         coletownsend
@@ -57,7 +57,7 @@ links:
     external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Copenhagen
 future:      true
 highlighter: pygments
 markdown:    kramdown
