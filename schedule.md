@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Comment policy
-tags: [philcog, comments, comment policy]
+title: Program
+tags: [dates, program, schedule, room, times]
 image:
   feature: soft-trees.jpg
 ---
@@ -14,7 +14,9 @@ th, td {
 </style>
 
 Date and time: August 2-3, the talks will start at 9:30am on both days.
+
 Location: KUA 1, Njalsgade 80 (or Karen Blixens Plads 8), København 2300
+
 Room: 12.0.47
 
 
