@@ -6,6 +6,16 @@ image:
   feature: soft-trees.jpg
 ---
 
+
+<style>
+table{
+    -webkit-column-width: 100px; /* Chrome, Safari, Opera */
+    -moz-column-width: 100px; /* Firefox */
+    column-width: 100px;
+}
+</style>
+
+
 Date and time: August 2-3, the talks will start at 9:30am on both days.
 Location: KUA 1, Njalsgade 80 (or Karen Blixens Plads 8), København 2300
 Room: 12.0.47

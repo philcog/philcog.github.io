@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Books
-description: works discussed.
-tags: [books]
+title: Pratical
+description: practical information
+tags: [hotel, restaurant, addresses]
 image:
   feature: soft-trees.jpg
 ---
