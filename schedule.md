@@ -6,15 +6,12 @@ image:
   feature: soft-trees.jpg
 ---
 
-
 <style>
-table{
-    -webkit-column-width: 100px; /* Chrome, Safari, Opera */
-    -moz-column-width: 100px; /* Firefox */
-    column-width: 100px;
+th, td {
+    padding: 10px;
+    text-align: left;
 }
 </style>
-
 
 Date and time: August 2-3, the talks will start at 9:30am on both days.
 Location: KUA 1, Njalsgade 80 (or Karen Blixens Plads 8), København 2300
@@ -23,7 +20,7 @@ Room: 12.0.47
 
 Thursday 2.08
 
-| 9-9:30 | Arrival and Coffee |
+| 9:00-9:30  | Arrival and Coffee |
 | 9:30-10:45 | Mechanisms and causation reconsidered (Stuart Glennan, Butler University) |
 | 10:45-12:00 | Activity causation (Beate Krickel, Ruhr University Bochum) |
 | 12:00-13:00 | Lunch
@@ -32,7 +29,6 @@ Thursday 2.08
 | 14:30-15:45 | A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences) (Alexander Gebharter, Düsseldorf University) |
 | 15:45-16:00 | Coffee break |
 | 16:00-17:15 | Constitution and causal roles (Lorenzo Casini, University of Geneva) |
-| 
 | 18:30 | Dinner Vækst |
 
 Friday 3.08
