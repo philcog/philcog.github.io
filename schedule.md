@@ -20,16 +20,16 @@ Room: 12.0.47
 
 Thursday 2.08
 
-| 9:00-9:30  | Arrival and Coffee |
-| 9:30-10:45 | Mechanisms and causation reconsidered (Stuart Glennan, Butler University) |
-| 10:45-12:00 | Activity causation (Beate Krickel, Ruhr University Bochum) |
-| 12:00-13:00 | Lunch
-| 13:00-14:15 | How do mechanisms and phenomena relate to one another? (Tudor Baetu, University of Bristol) |
-| 14:15-14:30 | Break |
+|   9:00-9:30 | Arrival and Coffee                                                                                                                                          |
+|  9:30-10:45 | Mechanisms and causation reconsidered\Stuart Glennan, Butler University                                                                                    |
+| 10:45-12:00 | Activity causation (Beate Krickel, Ruhr University Bochum)                                                                                                  |
+| 12:00-13:00 | Lunch                                                                                                                                                       |
+| 13:00-14:15 | How do mechanisms and phenomena relate to one another? (Tudor Baetu, University of Bristol)                                                                 |
+| 14:15-14:30 | Break                                                                                                                                                       |
 | 14:30-15:45 | A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences) (Alexander Gebharter, Düsseldorf University) |
-| 15:45-16:00 | Coffee break |
-| 16:00-17:15 | Constitution and causal roles (Lorenzo Casini, University of Geneva) |
-| 18:30 | Dinner Vækst |
+| 15:45-16:00 | Coffee break                                                                                                                                                |
+| 16:00-17:15 | Constitution and causal roles (Lorenzo Casini, University of Geneva)                                                                                        |
+|       18:30 | Dinner Vækst                                                                                                                                                |
 
 Friday 3.08
 
