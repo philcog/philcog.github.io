@@ -12,4 +12,4 @@ The conference aims to stimulate the interaction between the different methodolo
 
 The event is organized by the [Living Machines Project](https://livingmachines.wordpress.com/).
 
-Attendance is free but please contact Maria Serban (gsj868@hum.ku.dk) if you plan to attend.
+Attendance is free but if you plan to attend, please contact Maria Serban at gsj868@hum.ku.dk.

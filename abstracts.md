@@ -19,11 +19,11 @@ image:
 
 - **TBA**
 
-*A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences)*  - Alexander Gebharter , University of Duesseldorf
+*A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences)*  - Alexander Gebharter, University of Duesseldorf
 
 - One of Stuart Glennan’s most prominent contributions to the new mechanist debate consists in his reductive analysis of higher-level causation in terms of mechanisms (Glennan, 1996). In this paper I employ the causal Bayes net framework to reconstruct his analysis. This allows for specifying general assumptions which have to be satisfied to get Glennan’s approach working. I show that once these assumptions are in place, they imply (against the background of the causal Bayes net machinery) that higher-level causation indeed reduces to interactions between component parts of mechanisms. I also discuss the plausibility of these assumptions and some consequences for the mechanism debate.
 
-*Constitution and causal Roles*  -   Lorenzo Casini , University  of Geneva
+*Constitution and causal Roles*  -   Lorenzo Casini, University  of Geneva
 
 - Alexander Gebharter has recently (2016) proposed to use Bayesian network discovery methods to identify the constitutive dependencies that underwrite mechanistic explanations. The proposal depends on using the assumptions of the causal Bayesian network framework to implicitly define mechanistic constitution as a particular kind of deterministic causal dependence. The aim of this paper is twofold. In the first half, we argue that Gebharter’s proposal incurs severe conceptual problems. In the second half, we present an alternative way to bring Bayesian network tools to bear on the issue of understanding mechanistic constitution. More precisely, our proposal interprets constitution as the relation explaining why a target phenomenon has its characteristic causal role in terms of the causal roles of some of its spatiotemporal parts—where the notion of causal role is probabilistically understood.
 
@@ -39,6 +39,6 @@ image:
 
 - **TBA**
 
-*Counterfactual theories of causation and the problem of large causes* - Jens Harbecke , Witten/Herdecke University
+*Counterfactual theories of causation and the problem of large causes* - Jens Harbecke, Witten/Herdecke University
 
 - As is well-known, David Lewis' counterfactual theory of causation is subject to serious counterexamples in "non-ordinary"" cases. What has not received due attention in the literature so far is that Lewis' theory fails to provide necessary and sufficient conditions for causation in "ordinary" cases, too. First, the theory suffers from the "problem of large causes". It is argued that this may be fixed by imposing a minimization constraint. Second, the theory has the additional problem of not identifying complete and sufficient causes. It is argued that this may be fixed by the introduction of two further constraints, namely a maximization condition and a sufficiency condition. However, it is pointed out that a precise formulation of minimization and maximization would require defining an "essential part of an event" and/or an "essential subevent". Thus, the overall result of the paper is that Lewis' account may be amended along the proposed lines only if suitable definitions are provided. Although this issue is ultimately left open, some doubts are raised on whether the counterfactualist's resources are fit for this purpose, namely on whether they can meet the challenge without substantially departing from Lewis' intention, which was to provide a reductive account of causation.
