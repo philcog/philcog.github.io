@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Pratical
-description: practical information
+title: Practical
+description: hotel, restaurant, forms
 tags: [hotel, restaurant, addresses]
 image:
   feature: soft-trees.jpg
 ---
 
-[Hotel Christian iv](https://www.hotelchristianiv.dk/)'s address is Dronningens Tværgade 45, 1302 København K.
+
+Forms reimbursement (travel and accommodation): _to be uploaded_ 
 
 
-[Restaurant Vaekst](https://cofoco.dk/restauranter/vaekst/) is located on Sankt Peders Stræde 34, 1453 København.
+The conference hotel is [Hotel Christian iv](https://www.hotelchristianiv.dk/). The hotel's address is Dronningens Tværgade 45, 1302 København K.
+
+We will have dinner at [Restaurant Vaekst](https://cofoco.dk/restauranter/vaekst/), located on Sankt Peders Stræde 34, 1453 København.
 
 
-Forms reimbursement (travel and accommodation): to be uploaded 
+<iframe src="https://www.google.com/maps/d/u/3/embed?mid=14_7LtXM2ZvI6HaKQlUnYmtKoMaLo7NET" width="640" height="480"></iframe>
