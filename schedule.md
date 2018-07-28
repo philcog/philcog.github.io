@@ -7,10 +7,6 @@ image:
 ---
 
 <style>
-th, td {
-    padding: 10px;
-    text-align: left;
-}
 </style>
 
 Date, time, location
