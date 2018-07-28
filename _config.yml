@@ -46,11 +46,11 @@ tools:
 links:
 #  - title: About
 #    url: /about
-  - title: People
-    url: /people
+  - title: Program
+    url: /program
     external: false
-  - title: Schedule
-    url: /schedule
+  - title: Abstracts
+    url: /abstracts
     external: false
   - title: Practical
     url: /practical
