@@ -7,7 +7,8 @@ image:
   feature: soft-trees.jpg
 ---
 
-*Mechanisms and causation reconsidered* \\ Stuart Glennan, Butler University
+*Mechanisms and causation reconsidered*  
+Stuart Glennan, Butler University
 
 > **TBA**
 
@@ -21,12 +22,12 @@ Tudor Baetu , Bristol University
 
 > **TBA**
 
-*A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences)*   
+*A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences)*  
 Alexander Gebharter, University of Duesseldorf
 
 > One of Stuart Glennan’s most prominent contributions to the new mechanist debate consists in his reductive analysis of higher-level causation in terms of mechanisms (Glennan, 1996). In this paper I employ the causal Bayes net framework to reconstruct his analysis. This allows for specifying general assumptions which have to be satisfied to get Glennan’s approach working. I show that once these assumptions are in place, they imply (against the background of the causal Bayes net machinery) that higher-level causation indeed reduces to interactions between component parts of mechanisms. I also discuss the plausibility of these assumptions and some consequences for the mechanism debate.
 
-*Constitution and causal roles*    
+*Constitution and causal roles*  
 Lorenzo Casini, University  of Geneva
 
 > Alexander Gebharter has recently (2016) proposed to use Bayesian network discovery methods to identify the constitutive dependencies that underwrite mechanistic explanations. The proposal depends on using the assumptions of the causal Bayesian network framework to implicitly define mechanistic constitution as a particular kind of deterministic causal dependence. The aim of this paper is twofold. In the first half, we argue that Gebharter’s proposal incurs severe conceptual problems. In the second half, we present an alternative way to bring Bayesian network tools to bear on the issue of understanding mechanistic constitution. More precisely, our proposal interprets constitution as the relation explaining why a target phenomenon has its characteristic causal role in terms of the causal roles of some of its spatiotemporal parts—where the notion of causal role is probabilistically understood.
