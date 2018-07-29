@@ -7,10 +7,10 @@ image:
   feature: mech2.jpg
 ---
 
-*Mechanisms and causation reconsidered*  
+**Mechanisms and causation reconsidered**  
 Stuart Glennan, Butler University
 
-> **TBA**
+> *TBA*
 
 **Activity causation**  
 Beate Krickel, Ruhr University Bochum
@@ -20,7 +20,7 @@ Beate Krickel, Ruhr University Bochum
 **The relationship between phenomena and mechanisms**  
 Tudor Baetu , Bristol University
 
-> **TBA**
+> *TBA*
 
 **A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences)**  
 Alexander Gebharter, University of Duesseldorf
@@ -35,17 +35,17 @@ Lorenzo Casini, University  of Geneva
 **Downward causation, conditional independence and abstraction**  
 James Woodward, University of Pittsburgh
 
-> **TBA**
+> *TBA*
 
 **Causal reasoning in classification**  
 Emma Tobin, University College London
 
-> **TBA**
+> *TBA*
 
 **A causal mosaic**  
 Phyllis Illari, University College London
 
-> **TBA**
+> *TBA*
 
 **Counterfactual theories of causation and the problem of large causes**  
 Jens Harbecke, Witten/Herdecke University
