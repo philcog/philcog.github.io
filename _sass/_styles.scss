@@ -849,6 +849,10 @@ footer {
 
 @media only screen and (max-width: $breakpoint-1-max-width) {
 
+    body {
+        font-size: $fsp;
+    }
+
 .post {
     @include column(9);
     max-width: 420px;
