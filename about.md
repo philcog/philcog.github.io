@@ -5,7 +5,7 @@ title: About
 description: conference theme and questions
 tags: [about, mechanism, causation, philosophy of science, metaphysics]
 image:
-  feature: soft-trees.jpg
+  feature: mech2.jpg
 ---
 
 The new mechanical philosophy abounds in causal concepts such as activities, interactions, production, causal relevance, causal processes, causal roles and counterfactual difference makers. This plurality of causal concepts suggests different ways of thinking about causation. Many recent regularity, difference-making and mechanistic accounts of causation have focused on elucidating how causes are found and used in scientific practice. It has been argued that this methodologically driven approach provides a more tractable way of thinking about causal claims and their truth-makers, but more metaphysically inclined philosophers have pushed back demanding a systematic analysis that grounds ontologically the category of causation. 

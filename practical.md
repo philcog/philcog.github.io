@@ -4,7 +4,7 @@ title: Practical
 description: hotel, restaurant, forms
 tags: [hotel, restaurant, addresses]
 image:
-  feature: soft-trees.jpg
+  feature: mech2.jpg
 ---
 
 

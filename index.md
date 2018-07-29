@@ -4,7 +4,7 @@ title: Causation, Mechanism and Difference Makers
 description: a conference on philosophy of science
 tags: [about, conference, philosophy of science, mechanism, causation, difference-makers]
 image:
-  feature: typewriter.jpg
+  feature: mech1.jpg
 ---
 
 

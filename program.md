@@ -3,7 +3,7 @@ layout: page
 title: Program
 tags: [dates, program, schedule, room, times]
 image:
-  feature: soft-trees.jpg
+  feature: mech2.jpg
 ---
 
 Thursday 2.08

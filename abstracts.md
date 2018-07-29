@@ -4,7 +4,7 @@ title: Abstracts
 description:
 tags: [people, abtracts]
 image:
-  feature: soft-trees.jpg
+  feature: mech2.jpg
 ---
 
 *Mechanisms and causation reconsidered*  
