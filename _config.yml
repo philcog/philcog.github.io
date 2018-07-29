@@ -44,8 +44,9 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-#  - title: About
-#    url: /about
+  - title: About
+    url: /about
+    external: false
   - title: Program
     url: /program
     external: false

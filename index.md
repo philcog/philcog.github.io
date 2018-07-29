@@ -8,7 +8,7 @@ image:
 ---
 
 
-The conference aims to stimulate the interaction between the different methodological, practice-based and metaphysical accounts of causation.
+The conference aims to stimulate the interaction between the different methodological, practice-based and metaphysical accounts of mechanism and causation.
 
 The event is organized by the [Living Machines Project](https://livingmachines.wordpress.com/).
 
