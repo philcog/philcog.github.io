@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Practical
-description: hotel, restaurant, forms
+description: conference venue, hotel, restaurant, forms
 tags: [hotel, restaurant, addresses]
 image:
   feature: mech2.jpg
 ---
 
 
-Forms reimbursement (travel and accommodation): _to be uploaded_ 
+Reimbursement forms (travel and accommodation): _to be uploaded_ 
 
 Date and time: August 2-3, the talks start at 9:30am on each day.  
 Venue: KUA 1, Njalsgade 80 (or Karen Blixens Plads 8), København 2300.  
