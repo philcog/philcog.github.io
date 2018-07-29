@@ -1,6 +1,6 @@
 ---
 layout: page
-title: abstracts
+title: Abstracts
 description:
 tags: [people, abtracts]
 image:
