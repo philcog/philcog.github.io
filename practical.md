@@ -11,7 +11,7 @@ image:
 Reimbursement forms (travel and accommodation): _to be uploaded_ 
 
 Date and time: August 2-3, the talks start at 9:30am on each day.  
-Venue: KUA 1, Njalsgade 80 (or Karen Blixens Plads 8), København 2300.  
+Venue: KUA 2, Njalsgade 80 (or Karen Blixens Plads 8), København 2300.  
 Room: 12.0.47  
 Campus map: [here](/pdfs/campus_map.pdf)
 
