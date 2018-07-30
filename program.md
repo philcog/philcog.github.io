@@ -27,5 +27,5 @@ Friday 3.08
 | 10:45-12:00 | Causal reasoning in classification (Emma Tobin, University College London) |
 | 12:00-13:00 | _Lunch_ |
 | 13:00-14:00 | A causal mosaic (Phyllis Illari, University College London) |
-| 14:00-14:15 | _Break_ |
+| 14:00-14:15 | _Coffee break_ |
 | 14:15-15:30 | Counterfactual theories of causation and the problem of large causes (Jens Harbecke, Witten/Herdecke University) |
