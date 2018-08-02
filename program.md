@@ -31,6 +31,6 @@ Friday 3.08
 | 12:15-13:15 | _Lunch_ |
 | 13:15-14:30 | Constitution and causal roles (Lorenzo Casini, University of Geneva) |
 | 14:30-14:45 | _Coffee break_ |
-| 14:45-15:30 | Counterfactual theories of causation and the problem of large causes (Jens Harbecke, Witten/Herdecke University) |
+| 14:45-16:00 | Counterfactual theories of causation and the problem of large causes (Jens Harbecke, Witten/Herdecke University) |
 
 
