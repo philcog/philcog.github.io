@@ -26,10 +26,11 @@ Friday 3.08
 -------------
 
 | 9:30-10:45 | Downward causation, conditional independence and abstraction (James Woodward, University of Pittsburgh) |
-| 10:45-12:00 | A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences) (Alexander Gebharter, Düsseldorf University) |
-| 12:00-13:00 | _Lunch_ |
-| 13:00-14:15 | Constitution and causal roles (Lorenzo Casini, University of Geneva) |
-| 14:15-14:30 | _Coffee break_ |
-| 14:30-15:15 | Counterfactual theories of causation and the problem of large causes (Jens Harbecke, Witten/Herdecke University) |
+| 10:45-11:00 | Break |
+| 11:00-12:15 | A causal Bayes net analysis of Glennan’s mechanistic account of higher-level causation (and some consequences) (Alexander Gebharter, Düsseldorf University) |
+| 12:15-13:15 | _Lunch_ |
+| 13:15-14:30 | Constitution and causal roles (Lorenzo Casini, University of Geneva) |
+| 14:30-14:45 | _Coffee break_ |
+| 14:45-15:30 | Counterfactual theories of causation and the problem of large causes (Jens Harbecke, Witten/Herdecke University) |
 
 
